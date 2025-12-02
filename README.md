@@ -60,8 +60,9 @@ This project relies on a custom TDA module (`tcripser`) which requires **C++ Bui
 ### Setup
 ```bash
 # 1. Clone this repository
-git clone [https://github.com/SanZhang/Extended-Persistence-Cubical.git](https://github.com/SanZhang/Extended-Persistence-Cubical.git)
+git clone https://github.com/JunhanCui/Final-work-for-Master.git
 cd Extended-Persistence-Cubical
 
 # 2. Install dependencies
+
 pip install -r requirements.txt
