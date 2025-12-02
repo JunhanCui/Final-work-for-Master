@@ -61,8 +61,9 @@ This project relies on a custom TDA module (`tcripser`) which requires **C++ Bui
 ```bash
 # 1. Clone this repository
 git clone https://github.com/JunhanCui/Final-work-for-Master.git
-cd Extended-Persistence-Cubical
+cd Final-work-for-Master
 
 # 2. Install dependencies
 
 pip install -r requirements.txt
+
